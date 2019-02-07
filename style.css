@@ -1,27 +1,42 @@
 #information {
   background-color:rgba(255, 0, 0, 0.5);
+  text-align:center;
 }
 
 #marin_headlands {
   background-color:rgba(255, 165, 0, 0.5);
+  font-family:Arial !important;
 }
 
 #oracle_park {
   background-color:rgba(255, 255, 0, 0.5);
+  font-family:Arial !important;
 }
 
 #fog_harbor {
   background-color:rgba(100, 255, 100, 0.5);
+  font-family:Arial !important;
 }
 
 #ghiradelli_square {
   background-color:rgba(50, 50, 255, 0.5);
+  font-family:Arial !important;
 }
 
 #body {
   background-color:rgba(150, 150, 0, 0.5);
+  font-family:Times;
+  line-height:110%;
+}
+
+#list {
+  text-align: left;
 }
 
 #title_header {
   color:white;
+  font-family:Arial !important;
+  font-size:28px;
+  font-weight:100;
+  text-decoration:underline;
 }
