@@ -25,12 +25,24 @@
   margin-top: 45px;
 }
 
+.main_body {
+  float: left;
+  width: 620px;
+  margin:10px;
+}
+
+.more_information_here {
+  float: left;
+  width: 620px;
+  margin: 10px;
+}
+
 #information {
   background-color:rgba(255, 0, 0, 0.5);
   text-align:center;
   padding-top: 10px;
   padding-bottom: 10px;
-  width: 50%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 5px 5px 5px 5px rgba(100,100,100,0.5);
@@ -91,8 +103,8 @@
 
 /*https://www.w3schools.com/css/css_list.asp*/
 ol li {
-  margin-left: 45%;
-  margin-right: 45%;
+  margin-left: 25%;
+  margin-right: 25%;
   box-shadow: 2px 2px 2px 2px;
   padding-bottom: 5px;
   padding-top: 5px;
@@ -100,8 +112,8 @@ ol li {
 }
 
 ul li {
-  margin-left: 40%;
-  margin-right: 40%;
+  margin-left: 20%;
+  margin-right: 20%;
   box-shadow: 2px 2px 2px 2px;
   padding-bottom: 5px;
   padding-top: 5px;
@@ -115,8 +127,8 @@ ul li {
 
 #highlights {
   border-style:ridge;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 
 #gmap {
